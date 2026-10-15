@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Quode Palette Home",
+  "short_name": "Quode Palette Home",
+  "version": "1.0.0",
+  "description": "A personalized dark browser home by Quode Palette",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [
+    "storage",
+    "unlimitedStorage"
+  ],
+  "host_permissions": [
+    "https://feeds.bbci.co.uk/*"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
