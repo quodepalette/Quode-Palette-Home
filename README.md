@@ -2,6 +2,10 @@
 
 A dark, animated personal new-tab page for Chrome and Brave.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Quode Palette Home" width="100%">
+</p>
+
 ## What's inside
 - Live clock (with seconds) + date, time-aware greeting
 - Google search bar (autofocus, press `/` anytime to jump to it)
