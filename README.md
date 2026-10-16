@@ -43,3 +43,9 @@ A dark, animated personal new-tab page for Chrome and Brave.
 - The weather pill triggers a normal browser geolocation permission prompt the first time you click it - nothing happens until you do.
 - The export/import backup covers shortcuts (name, URL, pinned), notes and your name. Weather location isn't included. Older shortcuts-only backups can still be imported.
 - The calendar and news panels hide automatically on narrower browser windows (under ~980px) so they don't crowd the center content.
+
+## License
+
+Released under the [PolyForm Noncommercial License 1.0.0](LICENSE). You are free to use, modify and share it for personal, educational and other noncommercial purposes. For commercial use, please get in touch.
+[Email Us](mailto:hello@quodepalette.com)
+
